@@ -17,6 +17,7 @@ Customized font in labels. Customized "Introduce"button.
 Personalized launch icon and launch screen added. 
 
 Video Walkthrough
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/SytVgWy"  ><a href="//imgur.com/a/SytVgWy">IntroduceStudentDemo</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 Notes
 It took me a while to figure out how to add a personalized launch screen.
